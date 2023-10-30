@@ -1,0 +1,28 @@
+.search {
+  text-align: center;
+  margin: 20px auto;
+}
+
+.search-bar-input {
+  width: 50%;
+  height: 5vh;
+  border: none;
+  border-radius: 15px;
+  padding: 5px 20px 5px 20px;
+  font-size: 1.2rem;
+  background-color: rgb(255, 255, 255);
+}
+
+.acessorios h1 .brinquedos h1 .racoes h1 {
+  display: inline-block !important;
+  font-weight: 200 !important;
+}
+
+.genero {
+  color: #d1a177;
+  font-weight: 600 !important;
+  background-color: transparent;
+  font-family: "Montserrat";
+  text-align: left;
+  margin-left: 5%;
+}
