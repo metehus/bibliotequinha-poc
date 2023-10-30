@@ -1,0 +1,42 @@
+.container1{
+    display: flex;
+    flex-direction:row;
+}
+
+.poster{
+
+    width: 50%;
+    height: 500px;
+}
+
+.poster1{
+    height: 400px;
+    margin-left: 170px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.detalhes{
+
+    width: 50%;
+    height: 500px;
+}
+
+.informacoes{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.titulo{
+    padding-top: 40px;
+}
+
+.container2{
+    height: 200px;
+}
+
+.detalhes-container{
+    margin-top: 100px;
+}
