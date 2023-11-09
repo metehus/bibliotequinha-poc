@@ -13,6 +13,10 @@ const LivroSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
+  genero: {
+    type: String,
+    required: true,
+  },
 });
 
 const Livro = mongoose.model("Livro", LivroSchema);
